@@ -55,34 +55,34 @@ This portfolio is organized around **five core data science domains**, each demo
 
 ```
 data-science-portfolio/
-├── notebooks/                                           # All Jupyter notebooks organized by category
-│   ├── 01-core-skills/                                  # Fundamental data science skills
-│   │   ├── core-data-science-libraries.ipynb           # NumPy, Pandas fundamentals
-│   │   └── pandas-dataframe-fundamentals.ipynb         # Pandas data manipulation
-│   ├── 02-data-analysis/                               # Data analysis and visualization
-│   │   ├── regional-sales-analysis-visualization.ipynb # Sales data visualization
-│   │   ├── titanic-comprehensive-survival-analysis.ipynb # EDA and statistical analysis
-│   │   ├── user-behavior-visualization-analytics.ipynb # User behavior analysis
-│   │   └── restaurant-tips-multivariate-study.ipynb    # Multivariate analysis
-│   ├── 03-machine-learning/                            # Machine learning projects
-│   │   ├── unsupervised-learning-visualization.ipynb   # Clustering, PCA, outlier detection
-│   │   ├── multi-model-heart-disease-classification.ipynb # ML classification
-│   │   ├── customer-churn-prediction-analysis.ipynb    # Business analytics ML
-│   │   └── sales-prediction-linear-regression.ipynb    # ML regression
-│   ├── 04-healthcare-analytics/                        # Healthcare-specific projects
-│   │   ├── healthcare-data-cleaning-imputation.ipynb   # Healthcare data preprocessing
-│   │   └── heart-disease-predictive-analytics.ipynb    # Healthcare predictive analytics
-│   └── 05-advanced-analytics/                          # Advanced data science techniques
-│       ├── sales-data-cleaning-imputation-techniques.ipynb # Data cleaning techniques
-│       ├── customer-data-analytics-pipeline.ipynb      # End-to-end data science pipeline
-│       └── nested-cross-validation-model-selection.ipynb # Advanced ML validation
-├── data/                                               # Dataset storage
-│   ├── raw/                                            # Original, unprocessed datasets
-│   ├── processed/                                      # Cleaned and preprocessed datasets
-│   └── README.md                                       # Data directory documentation
-├── docs/                                               # Additional documentation
-├── requirements.txt                                    # Python dependencies
-└── README.md                                          # Portfolio documentation
+├── notebooks/                                                      # All Jupyter notebooks organized by category
+│   ├── 01-core-skills/                                             # Fundamental data science skills
+│   │   ├── core-data-science-libraries.ipynb                       # NumPy, Pandas fundamentals
+│   │   └── pandas-dataframe-fundamentals.ipynb                     # Pandas data manipulation
+│   ├── 02-data-analysis/                                           # Data analysis and visualization
+│   │   ├── regional-sales-analysis-visualization.ipynb             # Sales data visualization
+│   │   ├── titanic-comprehensive-survival-analysis.ipynb           # EDA and statistical analysis
+│   │   ├── user-behavior-visualization-analytics.ipynb             # User behavior analysis
+│   │   └── restaurant-tips-multivariate-study.ipynb                # Multivariate analysis
+│   ├── 03-machine-learning/                                        # Machine learning projects
+│   │   ├── unsupervised-learning-visualization.ipynb               # Clustering, PCA, outlier detection
+│   │   ├── multi-model-heart-disease-classification.ipynb          # ML classification
+│   │   ├── customer-churn-prediction-analysis.ipynb                # Business analytics ML
+│   │   └── sales-prediction-linear-regression.ipynb                # ML regression
+│   ├── 04-healthcare-analytics/                                    # Healthcare-specific projects
+│   │   ├── healthcare-data-cleaning-imputation.ipynb               # Healthcare data preprocessing
+│   │   └── heart-disease-predictive-analytics.ipynb                # Healthcare predictive analytics
+│   └── 05-advanced-analytics/                                      # Advanced data science techniques
+│       ├── sales-data-cleaning-imputation-techniques.ipynb         # Data cleaning techniques
+│       ├── customer-data-analytics-pipeline.ipynb                  # End-to-end data science pipeline
+│       └── nested-cross-validation-model-selection.ipynb           # Advanced ML validation
+├── data/                                                           # Dataset storage
+│   ├── raw/                                                        # Original, unprocessed datasets
+│   ├── processed/                                                  # Cleaned and preprocessed datasets
+│   └── README.md                                                   # Data directory documentation
+├── docs/                                                           # Additional documentation
+├── requirements.txt                                                # Python dependencies
+└── README.md                                                       # Portfolio documentation
 ```
 
 ## 🛠️ Technologies & Tools
